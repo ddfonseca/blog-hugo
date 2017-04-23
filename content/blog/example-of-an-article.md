@@ -2,6 +2,7 @@
 author: "Alexis Tacnet"
 date: 2015-09-28
 title: Example article
+draft: true
 best: true
 ---
 
@@ -22,13 +23,6 @@ best: true
 **This is some code, this theme includes language highlight, optionnal as well.**
 
 ```
-.dark {
-  color: #333333 !important;
-}
-.light {
-  color: #666666 !important;
-}
-.accent {
-  color: #428bca !important;
-}
+def hello_world():
+    print "Hey there!"
 ```
