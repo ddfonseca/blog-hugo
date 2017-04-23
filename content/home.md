@@ -2,6 +2,5 @@
 title = "Home"
 +++
 
-_This is the home page. It will display the blog section if there is one, and a text before._
+Um site sobre qualquer coisa envolvendo Linux, LaTeX, CFD e software livre.
 
-<!-- Hey ! Welcome to the **Cocoa Enhanced theme**. Here are some articles : -->
