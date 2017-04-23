@@ -1,5 +1,5 @@
 baseurl = "https://davidfonseca.com.br/"
-theme = "cocoa-eh"
+theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
