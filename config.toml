@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://davidfonseca.com.br/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -10,6 +10,8 @@ author = "David Fonseca"
 title = "David Fonseca"
 disqusshortname = ""
 pluralizelisttitles = false
+newContentEditor = "nvim"
+pygmentsStyle = "native"
 
 [permalinks]
 blog = "blog/:slug/"
