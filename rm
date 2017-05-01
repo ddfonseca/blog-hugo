@@ -1,0 +1,2 @@
+rm -r public/{404.html,about,blog,books.png,fonts,home,img,index.html,index.xml,js,license,projects,sitemap.xml,tags}
+hugo

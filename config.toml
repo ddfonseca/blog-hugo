@@ -7,7 +7,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "David Fonseca"
 title = "David Fonseca"
-disqusshortname = ""
+disqusshortname = "davidfonseca"
 pluralizelisttitles = false
 
 newContentEditor = "nvim"
@@ -20,17 +20,17 @@ blog = "blog/:slug/"
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Example blog"
-copyright = "Copyright © 2015 Nishanth Shanmugham"
+copyright = "Copyright © 2017 David Fonseca"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 highlightjs = true
 progressively = true
 latestpostcount = 5
-github = "example"
-email = "you@example.com"
-linkedin = "john-example-aa80ue8è"
-twitter = "example"
-social_banner = "img/banner.png"
+github = "ddfonseca"
+email = "olfdavid@gmail.com"
+#  linkedin = "john-example-aa80ue8è"
+#  twitter = "example" */
+#  social_banner = "img/banner.png"
 posts_navigation = true
 
 [params.colors]
