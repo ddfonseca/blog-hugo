@@ -11,7 +11,6 @@ disqusshortname = "davidfonseca"
 pluralizelisttitles = false
 
 newContentEditor = "nvim"
-pygmentsStyle = "native"
 
 [permalinks]
 blog = "blog/:slug/"
