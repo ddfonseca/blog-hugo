@@ -20,7 +20,7 @@ Pra quem quer apenas formatar seu TCC em tempo recorde, não vou nem perder temp
 
 Depois de realizar o seu Login no [ShareLaTeX](https://www.sharelatex.com), clique em **Novo projeto** --> **Ver todos**, a última opção dos Modelos. Procure por **abntex** que você encontrará o **abnTeX2 Model Thesis**. Se a sua universidade exige um modelo específico, verifique se eles já não disponibilizaram um modelo próprio em LaTeX que você também poderá fazer o upload para o ShareLaTeX. Pronto, você criou o seu primeiro projeto! Agora é só clicar no modelo e depois no botão **Open in ShareLaTeX** que você encontrará uma tela parecida com essa (clique na imagem para ampliar):
 
-![tela 1](/img/latex_img/tela1.png)
+[![tela 1](/img/latex_img/tela1.png)](/img/latex_img/tela1.png)
 
 Ao clicar em **Recompilar**, você verá que todos esses comandos da esquerda se transformarão em um documento em PDF à direita. E também aparecerá um ícone para fazer download do arquivo. Esse documento foi muito bem elaborado para  mostrar todas as funcionalidades da classe abnTeX2, mas para nossos fins de aprendizado, é muita informação. O modelo que desenvolvi para o aprendizado do LaTeX, junto com a classe abnteX, é muito mais simples.
 
@@ -28,7 +28,7 @@ Vamos aprender todos os comandos para criar esse [arquivo aqui](/pdf/comandos_fu
 
 Após clicar no link, você poderá visualizar o projeto mas não editá-lo diretamente, já que isso impediria que outras pessoas copiassem o modelo em branco. Portanto, você deve criar uma cópia para a sua conta, clicando em **Menu** --> **Copiar Projeto**, conforme pode ser visto na imagem a seguir:
 
-![copia 1](/img/latex_img/copiar_projeto.png)
+[![copia 1](/img/latex_img/copiar_projeto.png)](/img/latex_img/copiar_projeto.png)
 
 Obs: Gostaria de enviar um singelo agradecimento ao Pedro Tadahiro que me forneceu essas imagens.
 
@@ -44,7 +44,7 @@ Agora você verá um arquivo muito menor do que o primeiro, mas ainda assim com 
 
 Tudo que começa com o o símbolo `%` será tratado como um comentário, ou seja, o compilador do LaTeX vai ignorar essas linhas. Então você pode escrever esses comentários para facilitar o entendimento do documento, como fiz com essas três linhas, ou você pode omitir alguns trechos. O próprio ShareLaTeX tem um atalho para facilitar isso. Experimente selecionar um trecho do documento e digitar `Ctrl + /`. Será colocado o `%` em todas as linhas selecionadas. Se digitar `Ctrl + /` novamente, voltará ao normal.
 
-Muito útil essa função quando o seu documento está dando vários erros e você não sabe exatamente onde está, então você comenta praticamente o documento todo e vai "descomentando" pequenas partes e compilando novamente. Aí, alguma hora você vai encontrar o erro, mas essa não é uma boa prática. O certo seria: **Escreva pouco** --> **Compila** --> **Verifica**
+Muito útil essa função quando o seu documento está dando vários erros e você não sabe exatamente onde está, então você comenta praticamente o documento todo e vai "descomentando" pequenas partes e compilando novamente. Aí, alguma hora você vai encontrar o erro, mas essa não é uma boa prática. O certo seria: **Escreva pouco** --> **Compila** --> **Verifica**.
 
 Depois, temos a) o comando `\documentclass[a4paper, 12pt, openany, oneside, brazil]{abntex2}` dizendo para criar um documento do tamanho de uma folha A4, tamanho da fonte padrão 12; b) A opção `openany` indicando que os capítulos podem ser abertos em qualquer página, diferentemente da opção `openright` que permite apenas páginas ímpares; c) a opção`oneside` indicando que o documento não é frente-e-verso e, por conta disso, não há páginas em branco, ou seja, todo o documento é preenchido;  por fim, d) a classe `abntex2` serve para usarmos diversos comandos, tais como `/imprimircapa`, `/imprimirfolhaderosto` e `\autoref{}`, além de gerar título de Figuras e Tabelas em português e criação do sumário, tudo isso conforme as normas da ABNT.
 
@@ -138,7 +138,7 @@ O resultado deverá ser:
 
 ### Listas
 
-Como criar aqueles itens de pontinhos pretos ou itens numeradas? No LaTeX, eles são chamados de listas. 
+Como criar aqueles itens de pontinhos pretos ou itens numeradas? No LaTeX, eles são chamados de listas.
 
 Agora, veremos o nosso primeiro ambiente. Tudo o que começa com `\begin{ambiente}`, precisa terminar com `\end{ambiente}`, senão ocorre um erro. Mas não se preocupe: utilizaremos a função autocompletar do ShareLaTeX para facilitar a nossa vida.
 
@@ -198,7 +198,7 @@ Notas de rodapé também são simples de serem inseridas no LaTeX. Utilizando o 
 ```tex
 \section{Notas de rodapé} % idem...
 Escrevendo qualquer coisa apenas para ter a nota de rodapé\footnote{teste1}. \newline
-Escrevendo mais coisas apenas para ter nota de rodapé.\footnote{test2} 
+Escrevendo mais coisas apenas para ter nota de rodapé.\footnote{test2}
 ```
 O resultado você já sabe, pode conferir no [arquivo de pdf](/pdf/comandos_fundamentais.pdf). O comando `\newline` vocês já podem imaginar o que acontece, né?
 

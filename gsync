@@ -1,0 +1,2 @@
+rclone ../davidfonseca remote:/blog/davidfonseca
+rclone ../themes/cocoa-eh remote:/blog/davidfonseca/themes/cocoa-eh
