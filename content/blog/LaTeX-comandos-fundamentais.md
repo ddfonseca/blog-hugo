@@ -90,7 +90,6 @@ Como criar capítulos e seções? Basta digitar os comandos `\chapter{}` e `\sec
 \chapter{Equações matemáticas}
 \section{Equação na linha}
 \section{Ambiente matemático}
-\section{Espaçamento matemático}
 
 \chapter{Figuras e tabelas}
 \section{Figura lado a lado}
@@ -136,7 +135,7 @@ O resultado deverá ser:
 ```
  O mesmo vale para `\emp<TAB>` e qualquer  outro comando deste post.
 
-### Listas
+#### Listas
 
 Como criar aqueles itens de pontinhos pretos ou itens numeradas? No LaTeX, eles são chamados de listas.
 
@@ -181,7 +180,7 @@ E para as listas ordenadas? Use o ambiente *enumerate*. O exemplo abaixo mostra 
 
 Listas fazem parte das atividades diárias e são facilmente criadas em editores de texto comuns, sobretudo em *slides*. No LaTEX, pense no atalho da função autocompletar para digitar a sequência acima.
 
-### Símbolos especiais
+#### Símbolos especiais
 
 Existem alguns caracteres que você não conseguirá escrever porque são considerados símbolos especiais, isto é, fazem parte da linguagem TeX para o compilador reconhecer algumas funções. Já vimos a porcentagem `%` para inserir comentários, mas existem outros como estes:
 
@@ -191,7 +190,7 @@ Existem alguns caracteres que você não conseguirá escrever porque são consid
 
 Caso precise digitá-los em seu texto, basta inserir a contrabarra `\` e o carácter especial.
 
-### Notas de rodapé
+#### Notas de rodapé
 
 Notas de rodapé também são simples de serem inseridas no LaTeX. Utilizando o comando `\footnote{}` no texto, será inserida uma nota de rodapé ao final da página. Por exemplo:
 
