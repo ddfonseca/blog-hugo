@@ -1,6 +1,6 @@
 +++
-date = "2017-05-03T18:34:15-03:00"
-title = "LaTeX para quem quer terminar o TCC em UM mês: Parte 1"
+date = "2017-05-06T18:34:15-03:00"
+title = "LaTeX 1 de 3: Introdução e Primeiro Passos."
 description = ""
 tags = ["latex"]
 meta_img = "/images/image.jpg"

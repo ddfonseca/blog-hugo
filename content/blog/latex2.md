@@ -2,9 +2,8 @@
 description = ""
 tags = ["latex"]
 meta_img = "/images/image.jpg"
-date = "2017-05-08T20:30:35-03:00"
-title = "LaTeX para quem quer terminar o TCC em UM mês: Parte 2"
-
+date = "2017-05-13T20:30:35-03:00"
+title = "LaTeX 2 de 3: Equações Matemáticas, Tabelas e Figuras."
 +++
 
 ## Equações Matemáticas
@@ -22,7 +21,7 @@ No entanto, podemos atribuir o comando:  $\displaystyle\sum_{n=1}^{x} n^2$, para
 Resultado:
 ![eq linha](/img/latex_img/eqlinha.png)
 
-Aqui temos um exemplo dos comandos somatório `\sum`, sobrescrito "^" e subscrito "\_". Para incluir as equações no texto, enquanto estamos escrevendo, devemos colocá-las entre o cifrão ($). Desse modo, todos os [comandos matemáticos](ftp://ftp.ams.org/ams/doc/amsmath/short-math-guide.pdf) estarão disponíveis para a gente. Esse foi um exemplo de três comandos matemáticos. O subscrito esteve entre chaves porque foi mais de um caractere, o mesmo poderia ocorrer com o subscrito. O comando `\displaystyle` melhora a visualização de algumas fórmulas na linha, como essa do somatório.
+Aqui temos um exemplo dos comandos somatório `\sum`, sobrescrito "^" e subscrito "\_". Para incluir as equações no texto, enquanto estamos escrevendo, devemos colocá-las entre o cifrão ($). Desse modo, todos os [comandos matemáticos](/pdf/short-math-guide.pdf) estarão disponíveis para a gente. Esse foi um exemplo de três comandos matemáticos. O subscrito esteve entre chaves porque foi mais de um caractere, o mesmo poderia ocorrer com o subscrito. O comando `\displaystyle` melhora a visualização de algumas fórmulas na linha, como essa do somatório.
 
 
 ### Ambiente matemático
@@ -74,7 +73,7 @@ Aqui está outro exemplo e dessa vez utilizamos o ambiente *equation\** para ini
 O comando `\sqrt{}` e `\pm` significam *SQuareRooT* (raíz quadradra) e *plus-minus* (mais ou menos).
 
 ### Para fórmulas complicadas e aprendizado
-Gostaria que vocês visitassem o [CodeCogs](https://www.codecogs.com/latex/eqneditor.php), que é um editor online para equações matemáticas basedo no LaTeX. Nele vocês podem brincar à vontade e verificar se a fórmula está como queiram. O *feedback* lá é imediato, de modo que podemos verificar se a sua equação está correta ou não. Junto com o [Short Math Guide for LaTeX](ftp://ftp.ams.org/ams/doc/amsmath/short-math-guide.pdf), vocês têm praticamente tudo para tirar as suas dúvidas.
+Gostaria que vocês visitassem o [CodeCogs](https://www.codecogs.com/latex/eqneditor.php), que é um editor online para equações matemáticas basedo no LaTeX. Nele vocês podem brincar à vontade e verificar se a fórmula está como queiram. O *feedback* lá é imediato, de modo que podemos verificar se a sua equação está correta ou não. Junto com o [Short Math Guide for LaTeX](/pdf/short-math-guide.pdf), vocês têm praticamente tudo para tirar as suas dúvidas.
 
 
 ## Figuras
