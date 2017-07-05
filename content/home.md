@@ -1,5 +1,6 @@
 +++
 title = "Home"
 +++
-Um site sobre qualquer coisa envolvendo Linux, LaTeX, CFD e software livre.
+Um site sobre Linux, LaTeX, CFD, software livre e reflexões pessoais.
+
 
