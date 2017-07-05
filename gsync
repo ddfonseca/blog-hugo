@@ -1,4 +1,0 @@
-#!/bin/bash
-
-rclone copy ../davidfonseca remote:/blog/davidfonseca
-rclone copy ../themes/cocoa-eh remote:/blog/davidfonseca/themes/cocoa-eh
