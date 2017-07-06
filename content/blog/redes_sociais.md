@@ -1,19 +1,16 @@
-+++
-description = ""
-tags = ["social media", "deep work", "boredom"]
-meta_img = "/images/image.jpg"
-date = "2017-06-29T19:00:00-03:00"
-title = "Por que eu saí de todas as redes sociais?"
-draft = "yes"
-+++
+---
+author: "David Fonseca"
+date: 2017-07-05
+title: Por que eu saí de todas as redes sociais?
+tags: ["social media"]
+---
 
-<!-- ![distracted](/img/wiqsm/distracted-640px.jpg) -->
 
 <img src="/img/wiqsm/distracted-640px.jpg" alt="Foto de um cara distraído com o celular" style="width: 640px;" />
 
 
 # Resposta Curta
-Porque quero aprofundar a minha habilidade de concentração por longos períodos sem distrações. Sair das redes sociais é para a mente assim como cortar o açúcar é para o seu corpo. É dizer que você leva a sério a sua atenção. Agora vem a...
+Porque quero aprofundar a minha habilidade se concentrar por longos períodos sem distrações. Sair das redes sociais é para a mente assim como cortar o açúcar é para o seu corpo. É dizer que você leva a sério a sua atenção. Agora vem a...
 
 # Resposta Longa
 Esta é uma pergunta frequente que recebo quando digo que não tenho mais redes sociais. Concordo que viver hoje em dia, principalmente em relação a amizade/família a longa distância, sem o uso das redes sociais é bem complicado. No entanto, devemos nos perguntar se os benefícios de usar esses serviços ultrapassam os malefícios. Este post não tem o intuito de fazer você sair, apenas de mostrar que se você usa o seu cérebro como ferramenta de trabalho, você deveria tratar a forma como se concentra da mesma forma que um *personal trainer* trata o corpo.
