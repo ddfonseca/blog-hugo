@@ -5,7 +5,6 @@ title: Por que eu saí de todas as redes sociais?
 tags: ["social media"]
 ---
 
-
 <img src="/img/wiqsm/distracted-640px.jpg" alt="Foto de um cara distraído com o celular" style="width: 640px;" />
 
 
@@ -25,7 +24,7 @@ Vamos por partes, o que as redes socias realmente representam? Segundo Cal Newpo
 
 Partindo dessa nova perspectiva, que é verdade, pois Facebook, Instagram e Twitter são empresas bilionárias apenas pelo fato de vender propagandas. Esta é a principal função deles: pegar a sua atenção a qualquer momento do dia, para você abrir o celular e usar o serviço deles. Além disso, eles contratam engenheiros talentosos justamente para criar esse vício e necessidade de usar as rede sociais. Lembra da internet antes dos *feed* de notícias e notificações? Essas "novidades" são obras desses profissionais. O *feed* de notícias gera sempre novos conteúdos e as notificações garante seu prazer imediato (quando você recebe aquele like vindo da foto que postou). <!-- Esses são exemplos de tecnologias incorporadas nas redes sociais para manter a sua atenção. -->
 
-Cada vez mais estamos com a atenção fragmentada, querendo resultados imediatos. Acordamos com o celular, dormimos com o celular. Temos uma fonte infinita de novos estímulos sendo gerados pelas redes sociais e pela internet. Inclusive, sites como Huffington Post, BuzzFeed, Business Insider e Reddit são projetados para ser uma fonte de entretenimento e, novamente, capturar a sua atenção.
+Cada vez mais estamos com a atenção fragmentada, querendo resultados imediatos. Acordamos com o celular, dormimos com o celular. Temos uma fonte infinita de novos estímulos sendo gerados pelas redes sociais e pela internet. Inclusive, sites como Huffington Post, BuzzFeed, Business Insider e Reddit são projetados para ser uma fonte de entretenimento e, novamente, capturar a sua atenção no maior tempo possível.
 
 <!-- fizeram o tédio desaparecer e, junto com ele, nossa habilidade de se concentrar por longos períodos sem distrações. -->
 
@@ -35,21 +34,21 @@ Talvez você esteja se perguntando: por que sair de todas redes sociais se o imp
 
 Eu diria que não, mas claro que há controvérsia.
 
-Da mesma forma, se você quer realizar uma mudança no seu corpo, seja para ganhar músculos ou para emagrecer, reduzir o uso diário do açúcar não é o suficiente. Tentar se concentrar sem o uso do celular não é o suficiente. Se você vive em um estado de distrações durante o dia, o seu cérebro não vai simplesmente "desligar" e se concentrar longas horas sem distrações espontaneamente.
+Da mesma forma, se você quer realizar uma mudança no seu corpo, seja para ganhar músculos ou para emagrecer, reduzir o uso diário do açúcar não é o suficiente. Tentar se concentrar sem o uso do celular não é o suficiente. Se você vive em um estado de distrações durante o dia, o seu cérebro não vai simplesmente "desligar" e se concentrar por longas horas sem distrações espontaneamente.
 
 Veja por esse lado, não é porque você tem 2 horas livres pra correr que conseguirá correr as 2 horas. É preciso estar preparado, ter se dedicado e treinado para realizar esse feito.
 
 <!-- No entanto, eu escrevi "longos **períodos** sem distrações" três (3) vezes nesse post. Ênfase em **períodos** e não "horas initerruptas", porque acredito que a melhor forma do cérebro se concentrar é em grandes blocos de **concentração total** (50-90min) seguidas de pequenos intervalos (5-15min) de pausa. Para saber mais desse tópico, recomendo [esse post](http://nymag.com/scienceofus/article/high-intensity-interval-training-work-productivity-breaks.html). -->
 
-As redes sociais são realmente as piores ferramentas para o seu cérebro no quesito de capturar a sua atenção, pois elas são projetadas para esse fim. No entanto, retirar apenas o açúcar não fará milagres (talvez faça) mas certamente precisará cortar os pães e os carboidratos da vida, ou seja, uma mudança duradoura precisa retirar o mal pela raíz. Assim minha busca me levou ao...
+As redes sociais são realmente as piores ferramentas para o seu cérebro no quesito de capturar a sua atenção, pois elas são projetadas para esse fim. No entanto, retirar apenas o açúcar não fará milagres (talvez faça) mas certamente precisará cortar os pães e os carboidratos da vida, ou seja, uma mudança duradoura precisaria retirar o mal pela raíz. Assim minha busca me levou ao...
 
 ## Cérebro viciado em novos estímulos
 
-O cérebro, como você já deve ter ouvido falar, é plástico. A neuroplasticidade associada ao cérebro é dita como uma maravilha, algo como: você pode aprender a tocar violão velho; você pode aprender novas línguas; e você pode criar novos hábitos. Tudo isso está associado simplesmente ao fato do cérebro poder mudar de forma, criar novas conexões neurais, romper com as antigas e ser diferente do que era antes. Entretanto, o cérebro não distingue o que é bom e o que é ruim. Constantemente o cérebro adquire maus hábitos, vícios alimentares, vícios tecnológicos.
+O cérebro, como você já deve ter ouvido falar, é plástico. A neuroplasticidade associada ao cérebro é dita como uma maravilha, algo como: você pode aprender a tocar violão idoso; você pode aprender novas línguas; e você pode criar novos hábitos. Tudo isso está associado simplesmente ao fato do cérebro poder mudar de forma, criar novas conexões neurais, romper com as antigas e ser diferente. Entretanto, o cérebro não distingue o que é bom e o que é ruim. Constantemente o cérebro adquire maus hábitos, vícios alimentares, vícios tecnológicos.
 
-Por experiência própria, não senti muitos avanços apenas por sair das redes sociais. Percebi principalmente que existe um mundo de sites tão interessantes que não conhecia por apenas entrar nas redes sociais. Meu vício mudou, agora se tornou em se inscrever por e-mail os vários *blogs* que existem e, antes que nunca abria nem um e-mail por semana, abriava todos os dias e todos os momentos. Meu cérebro está/estava víciado em novos estímulos.
+Por experiência própria, não senti muitos avanços na minha concentração apenas por sair das redes sociais. Percebi principalmente que existe um mundo de sites tão interessantes que desconhecia devido ao foco apenas nas redes sociais. Meu vício mudou, agora se tornou em se inscrever por e-mail os vários blogs que existem e, antes que nunca abria nem um e-mail por semana, abriava todos os dias e todos os momentos. Meu cérebro está/estava víciado em novos estímulos.
 
-Tudo começou com o surgimento da internet de banda larga. Ela é um mundo de informações, de novos estímulos a todo momento. Facilmente hoje em dia o navegador de internet é preenchido com múltiplas abas abertas. Nenhum texto ou *link* é lido até o final e frequentemente o `Ctrl+F` é pressionado. Qual a consequência de toda essa atenção fragmentada causada pela internet/celular no nosso cérebro?
+Tudo começou com o surgimento da internet de banda larga. Ela é um mundo de informações. Facilmente hoje em dia o navegador de internet é preenchido com múltiplas abas abertas. Nenhum texto ou *link* é lido até o final e frequentemente o `Ctrl+F` é pressionado porque não temos mais paciência para ler um texto na íntegra. Qual a consequência de toda essa atenção fragmentada causada pela internet/celular no nosso cérebro?
 
 Nicholas Carr, em [The Shallows: What the Internet Is Doing to Our Brain](https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750), expõe diversas pesquisas científicas a respeito das mudanças cerebrais devido o uso da internet. Em particular, ele cita um estudo de Gary Small sobre usuários ingênuos de internet que navegaram por 1h durante 5 dias:
 
@@ -69,15 +68,14 @@ Quebramos o nosso cérebro, é o que diz Clifford Nass, professor de psicologia 
 
 Certamente a dificuldade de se concentrar vem com um cérebro viciado em novos estímulos. Se queremos nos concentrar por longos períodos em uma **única tarefa**. Não haverá novos estímulos. É inclusive tedioso. De fato, se não conseguimos ficar 5 minutos na linha do ônibus sem dar uma olhada no celular, como conseguiremos focar em uma única tarefa por um longo tempo?
 
-
 <!-- Até pouco tempo, eu justificava esse comportamento dizendo que estava visitando sites e blogs muitíssimos interessantes. Por exemplo, se você gosta de discutir política, não mais você ficaria trocando mensagens com seus amigos de Facebook que não querem refletir e pensar sério a respeito do assunto, você simplesmente leria fontes dos maiores jornais do Brasil. Observaria critérios a favor/contra do assunto em questão, e saberia montar um argumento sólido através de fontes confiavéis e não que fulaninho do Facebook compartilhou.  Porém, isso seria na teoria. Na prática, eu ainda estava com preguiça de ler os artigos até o final, qualquer hiperlink me distraía para novas abas e continuava em um estado de distrações constante. (Obs: não sou o cara do exemplo, porque não sou chegado a leis dos homens.) -->
 
 <!-- ## Abrace o tédio -->
 <!--  -->
 <!-- Podemos ver o tédio de forma objetiva e subjetiva. Frequentemente o tédio representa um sentimento, uma emoção negativa. Mas pense bem, tédio objetivamente representa a falta de novos estímulos, seja se não há nada pra fazer (ex: esperar em um consultório médico), seja quando estamos fazendo uma atividade repetitiva (ex: lavando a louça). Então abraçar o tédio significa abraçar a vida como ela é. Ou melhor, como ela sempre foi antes do surgimento da internet de banda larga e celulares. Se você tem menos de 15 anos, provavelmente nem sabe o que é isso. Se tem mais de 25 anos, talvez tenha experimentado essa transição na adolescência. Se tem mais de 35 em diante, com certeza você se lembra de épocas onde atividades simples não eram tão estressantes quanto hoje em dia. -->
 
-Portanto, mais importante do que propriamente sair das redes sociais, seria observar quantas vezes você usa elas e, principalmente, os momentos que usa. Reflita sobre o uso contínuo da Internet e da atenção fragmentada caso você use seu cérebro como ferramenta de trabalho. Em um mundo cheio de distrações, a habilidade de se concentrar por longos períodos sem distrações está ficando cada vez mais escasso e, as pessoas que dominarem essa habilidade, vão se sobressair.
+Portanto, mais importante do que propriamente sair das redes sociais, seria observar quantas vezes você usa elas e, principalmente, os momentos que usa. Reflita sobre o uso contínuo da Internet e da atenção fragmentada caso você use seu cérebro como ferramenta de trabalho. Em um mundo cheio de distrações, a habilidade de se concentrar por longos períodos sem distrações está ficando cada vez mais escasso e, as pessoas que dominarem essa habilidade, certamente vão se sobressair.
 
-Parabéns se você leu este post até o final, sei que o quanto hoje em dia é raro ler um post com mais de 140 caracteres.
+Parabéns se você leu este post até o final, sei que o quanto hoje em dia é raro ler um post com mais de 140 caracteres. Abraços, até a próxima!
 
 (Foto por [gato-gato-gato](https://www.flickr.com/photos/gato-gato-gato/17274005375/in/photolist-sjrMYT-UDF39K-oxVVhU-dv7gTj-9AdV8w-8i5Asx-bM33V4-4qWLx1-o3gPud-6gurcP-dg9PwD-4e2GpY-5YQzek-4rBjE5-UeY3yG-UUEbgj-bpnQeC-7KfnK6-UsKLmo-RpYwto-8RzF4B-8WaZWn-nJsnWQ-5qWRie-6Ngakn-8Nywfc-btcKCV-gpmbTD-SU2D9a-pRjLrx-DnmArN-aovGgJ-eDpfFq-j8iceQ-k16k56-foxebu-ea8SLt-aHazVi-yAUrQ-9FdirU-TRVrqM-4Puft4-TDgrCC-56eSb1-yZFFJ-TwiGDo-dLKGXV-e1gnTq-qLb1HL-duzVgu))
