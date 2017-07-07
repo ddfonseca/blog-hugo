@@ -1,6 +1,6 @@
 ---
 author: "David Fonseca"
-date: 2017-07-05
+date: 2017-07-07
 title: Por que eu saí de todas as redes sociais?
 tags: ["social media"]
 ---
