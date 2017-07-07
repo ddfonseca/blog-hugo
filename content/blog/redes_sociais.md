@@ -3,6 +3,7 @@ author: "David Fonseca"
 date: 2017-07-05
 title: Por que eu saí de todas as redes sociais?
 tags: ["social media"]
+draft: true
 ---
 
 <img src="/img/wiqsm/distracted-640px.jpg" alt="Foto de um cara distraído com o celular" style="width: 640px;" />
@@ -74,8 +75,20 @@ Certamente a dificuldade de se concentrar vem com um cérebro viciado em novos e
 <!--  -->
 <!-- Podemos ver o tédio de forma objetiva e subjetiva. Frequentemente o tédio representa um sentimento, uma emoção negativa. Mas pense bem, tédio objetivamente representa a falta de novos estímulos, seja se não há nada pra fazer (ex: esperar em um consultório médico), seja quando estamos fazendo uma atividade repetitiva (ex: lavando a louça). Então abraçar o tédio significa abraçar a vida como ela é. Ou melhor, como ela sempre foi antes do surgimento da internet de banda larga e celulares. Se você tem menos de 15 anos, provavelmente nem sabe o que é isso. Se tem mais de 25 anos, talvez tenha experimentado essa transição na adolescência. Se tem mais de 35 em diante, com certeza você se lembra de épocas onde atividades simples não eram tão estressantes quanto hoje em dia. -->
 
+
 Portanto, mais importante do que propriamente sair das redes sociais, seria observar quantas vezes você usa elas e, principalmente, os momentos que usa. Reflita sobre o uso contínuo da Internet e da atenção fragmentada caso você use seu cérebro como ferramenta de trabalho. Em um mundo cheio de distrações, a habilidade de se concentrar por longos períodos sem distrações está ficando cada vez mais escasso e, as pessoas que dominarem essa habilidade, certamente vão se sobressair.
+
+Esta é a minha resposta do porquê eu não utilizo mais as redes sociais. Não são argumentos para você sair também, é apenas uma forma de tornar ciente de nossa capacidade cerebral pode ser muito bem influenciada com o uso dessas novas tecnologias.
 
 Parabéns se você leu este post até o final, sei que o quanto hoje em dia é raro ler um post com mais de 140 caracteres. Abraços, até a próxima!
 
 (Foto por [gato-gato-gato](https://www.flickr.com/photos/gato-gato-gato/17274005375/in/photolist-sjrMYT-UDF39K-oxVVhU-dv7gTj-9AdV8w-8i5Asx-bM33V4-4qWLx1-o3gPud-6gurcP-dg9PwD-4e2GpY-5YQzek-4rBjE5-UeY3yG-UUEbgj-bpnQeC-7KfnK6-UsKLmo-RpYwto-8RzF4B-8WaZWn-nJsnWQ-5qWRie-6Ngakn-8Nywfc-btcKCV-gpmbTD-SU2D9a-pRjLrx-DnmArN-aovGgJ-eDpfFq-j8iceQ-k16k56-foxebu-ea8SLt-aHazVi-yAUrQ-9FdirU-TRVrqM-4Puft4-TDgrCC-56eSb1-yZFFJ-TwiGDo-dLKGXV-e1gnTq-qLb1HL-duzVgu))
+
+Extra:
+
+Para mais informações sobre o assunto, recomendo esses links:
+
+- [How Your Brain Is Getting Hacked: Facebook, Tinder, Slot Machines | Tristan Harris](https://www.youtube.com/watch?v=JgkvTRz_Alo) (Novíssimo, saiu três dias atrás! - 5 min)
+- [Como a tecnologia engana as mentes das pessoas - por um mágico e especialista em ética do design no Google](https://www.manualdousuario.net/tecnologia-engana-pessoas/) (10 truques que as redes sociais utilizam para persuadir você e fazer você ficar mais tempo no serviço deles - 24 min de leitura)
+-  [The Michael Hyatt Show with Special Guest, Cal Newport](https://youtu.be/8qIBxoR-7q8) (Entrevista com Newport sobre Deep Work, muito boa! - 54 min)
+- [Podcast com Nicholas Carr](http://www.artofmanliness.com/2017/02/07/podcast-276-utopia-creepy/) (Podcast com transcrição com Nicholas Carr - 47 min)
