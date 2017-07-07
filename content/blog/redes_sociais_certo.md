@@ -36,7 +36,7 @@ Ora, se você quer realizar uma mudança no seu corpo, seja para ganhar músculo
 
 Veja por este lado: não é porque você tem duas horas livres para correr que conseguirá correr essas duas horas. É preciso estar preparado, ter se dedicado e treinado para atingir esse feito.
 
-As redes sociais são realmente as piores ferramentas para o seu cérebro no quesito de capturar a sua atenção, pois elas são projetadas para esse fim. No entanto, “livrar-se apenas do açúcar não fará milagres” (talvez até faça, mas certamente precisará livrar-se também dos carboidratos). Em outras palavras, uma mudança duradoura implica em cortar o mal pela raíz. Assim, minha busca me levou ao...
+As redes sociais são realmente as piores ferramentas para o seu cérebro no quesito de capturar a sua atenção, pois elas são projetadas para esse fim. No entanto, “livrar-se apenas do açúcar não fará milagres” (talvez até faça, mas certamente precisará de uma reeducação alimentar completa). Em outras palavras, uma mudança duradoura implica em cortar o mal pela raíz. Assim, minha busca me levou ao...
 
 ## Cérebro viciado em novos estímulos
 
