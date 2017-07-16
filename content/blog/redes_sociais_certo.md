@@ -70,7 +70,7 @@ P.S.: Parabéns se você leu este post até o final. Sei o quanto hoje em dia pa
 (Foto por [gato-gato-gato](https://www.flickr.com/photos/gato-gato-gato/17274005375/in/photolist-sjrMYT-UDF39K-oxVVhU-dv7gTj-9AdV8w-8i5Asx-bM33V4-4qWLx1-o3gPud-6gurcP-dg9PwD-4e2GpY-5YQzek-4rBjE5-UeY3yG-UUEbgj-bpnQeC-7KfnK6-UsKLmo-RpYwto-8RzF4B-8WaZWn-nJsnWQ-5qWRie-6Ngakn-8Nywfc-btcKCV-gpmbTD-SU2D9a-pRjLrx-DnmArN-aovGgJ-eDpfFq-j8iceQ-k16k56-foxebu-ea8SLt-aHazVi-yAUrQ-9FdirU-TRVrqM-4Puft4-TDgrCC-56eSb1-yZFFJ-TwiGDo-dLKGXV-e1gnTq-qLb1HL-duzVgu))
 
 Extra:
-Para mais informações sobre o assunto, recomendo esses links:
+Para mais informações sobre o assunto, recomendo estes links:
 
 - [How Your Brain Is Getting Hacked: Facebook, Tinder, Slot Machines | Tristan Harris](https://www.youtube.com/watch?v=JgkvTRz_Alo) (Novíssimo, saiu três dias atrás! - 5 min)
 - [Como a tecnologia engana as mentes das pessoas - por um mágico e especialista em ética do design no Google](https://www.manualdousuario.net/tecnologia-engana-pessoas/) (10 truques que as redes sociais utilizam para persuadir você a permanecer online - 24 min de leitura)
