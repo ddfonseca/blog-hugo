@@ -8,4 +8,9 @@ draft = "no"
 <img src="/img/profile-230px.png" alt="Foto perfil" style="width: 230px;" />
 <!-- ![profile](/img/profile-230px.png) -->
 
-Estou graduando em Engenharia Mecânica pela Universidade Federal do Rio de Janeiro - *campus* Macaé. Gosto muito do sistema operacional Linux e de *software* livre.
+
+Formado em Engenharia Mecânica pela UFRJ - _campus_ Macaé. No momento, concurseiro da área fiscal, focado no SEFAZ SP/RJ .
+
+Gosto de expor meus pensamentos sobre a vida e também do mundo Linux.
+
+Seja bem-vindo.
