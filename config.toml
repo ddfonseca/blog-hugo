@@ -9,6 +9,7 @@ author = "David Fonseca"
 title = "David Fonseca"
 disqusshortname = "davidfonseca"
 pluralizelisttitles = false
+googleAnalytics = "UA-131543414-1"
 
 newContentEditor = "nvim"
 

@@ -8,8 +8,6 @@ tags: ["focus","mind"]
 
 ## Bullet Points
 
-Você gostaria de ser mais feliz? Bem, então você definitivamente deveria se preocupar em se concentrar no momento presente.
-
 "Se você perguntar as pessoas para imaginar ganhando a loteria", Dr. Gilbert diz, "Eles praticamente falam sobre coisas que eles *fariam* - 'Eu gostaria de ir a Itália, compraria um barco, deitaria na praia' - e raramente mencionam as coisas que gostariam de *pensar*. Porém, nossos dados sugerem que a localização do corpo é muito menos importante do que a localização da mente, e que o primeiro tem surpreendentemente menos influência no segundo."
 
 
