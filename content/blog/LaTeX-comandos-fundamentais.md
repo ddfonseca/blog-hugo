@@ -11,10 +11,10 @@ meta_img = "/images/image.jpg"
 <!-- O título veio a tona quando um amigo disse que precisava terminar o famoso Trabalho de Conclusão de Curso (TCC) em apenas 1 mês e não sabia absolutamente nada de LaTeX. Pelo menos há tempo, e não para para a semana que vem por exemplo. O post será bastante objetivo, falando exatamente dos comandos fundamentais que você usará na sua dissertação e, se faltar algum detalhe, não hesite em comentar para que eu possa atualizar o post e beneficiar futuros leitores. -->
 
 ## Para quem não sabe o que é LaTeX
-LaTeX, é um sistema tipográfico de alta qualidade e um *software* livre. Pronuncia-se *Lah-tech* ou *lay-tech*. Teoricamente, com o LaTeX você não precisa se preocupar com a formatação, e sim apenas com o conteúdo. Infelizmente, no começo você apenas se preocupará com a formatação. Deverá dedicar um tempo apenas para "aprender LaTeX" e nada de escrever o seu trabalho por enquanto. Muito provavelmente esse esforço valerá a pena, pois o seu trabalho estará dentro das normas da ABNT e impecável.
+LaTeX, é um sistema tipográfico de alta qualidade e um *software* livre. Pronuncia-se *Lah-tech* ou *lay-tech*. Teoricamente, com o LaTeX você não precisa se preocupar com a formatação, mas apenas com o conteúdo. Infelizmente, no começo você apenas se preocupará com a formatação. Deverá dedicar um tempo apenas para "aprender LaTeX" e nada de escrever o seu trabalho por enquanto. Muito provavelmente valerá a pena esse esforço, pois o seu trabalho estará dentro das normas da ABNT.
 
 ## Preparação
-Pra quem quer apenas formatar seu TCC em tempo recorde, não vou nem perder tempo falando da instalação do *tex live* no Windows ou Linux. Vá direto em sites como [ShareLaTeX](https://www.sharelatex.com/) ou [Overleaf](https://www.overleaf.com/). São editores de texto online cuja o objetivo é ser colaborativo, como o Google Docs, por exemplo. Nunca usei o Overleaf, por isso recomendo o ShareLatex.
+Pra quem quer apenas formatar seu TCC em tempo recorde, não vou nem perder tempo falando da instalação do *tex live* no Windows ou Linux. Vá direto em sites como [ShareLaTeX](https://www.sharelatex.com/) ou [Overleaf](https://www.overleaf.com/). São editores de texto online cujo objetivo é ser colaborativo, como o Google Docs, por exemplo. Nunca usei o Overleaf, por isso recomendo o ShareLatex.
 
 ### Passo 0: seu primeiro projeto
 
@@ -22,16 +22,13 @@ Depois de realizar o seu Login no [ShareLaTeX](https://www.sharelatex.com), cliq
 
 [![tela 1](/img/latex_img/tela1.png)](/img/latex_img/tela1.png)
 
-Ao clicar em **Recompilar**, você verá que todos esses comandos da esquerda se transformarão em um documento em PDF à direita. E também aparecerá um ícone para fazer download do arquivo. Esse documento foi muito bem elaborado para  mostrar todas as funcionalidades da classe abnTeX2, mas para nossos fins de aprendizado, é muita informação. O modelo que desenvolvi para o aprendizado do LaTeX, junto com a classe abnteX, é muito mais simples.
+Ao clicar em **Recompilar**, você verá que todos esses comandos da esquerda se transformarão em um documento em PDF a direita. E também aparecerá um ícone para fazer download do arquivo. Esse documento foi muito bem elaborado para  mostrar todas as funcionalidades da classe abnTeX2, mas para nossos fins de aprendizado, é muita informação. O modelo que desenvolvi para o aprendizado do LaTeX, junto com a classe abnteX, é muito mais simples.
 
 Vamos aprender todos os comandos para criar esse [arquivo aqui](/pdf/comandos_fundamentais.pdf). Sendo que a capa, folha de rosto, sumário, numeração de capítulos e seções, imagens, tabelas e referências bibliográficas, tudo isso será trabalho do LaTeX. A filosofia desse post será *Learning by doing* então vamos começar com esse [modelo](https://pt.sharelatex.com/project/590fc24f53edd69b2d6949fa), que não tem praticamente nada.
 
 Após clicar no link, você poderá visualizar o projeto mas não editá-lo diretamente, já que isso impediria que outras pessoas copiassem o modelo em branco. Portanto, você deve criar uma cópia para a sua conta, clicando em **Menu** --> **Copiar Projeto**, conforme pode ser visto na imagem a seguir:
 
 [![copia 1](/img/latex_img/copiar_projeto.png)](/img/latex_img/copiar_projeto.png)
-
-Obs: Gostaria de enviar um singelo agradecimento ao Pedro Tadahiro que me forneceu essas imagens.
-
 
 ### Passo 1: Entendendo o LaTeX
 Agora você verá um arquivo muito menor do que o primeiro, mas ainda assim com um monte de comandos desconhecidos. Para começar, vamos pela primeira linha:
@@ -42,7 +39,7 @@ Agora você verá um arquivo muito menor do que o primeiro, mas ainda assim com 
 \documentclass[a4paper, 12pt, openany, oneside, brazil]{abntex2}
 ```
 
-Tudo que começa com o o símbolo `%` será tratado como um comentário, ou seja, o compilador do LaTeX vai ignorar essas linhas. Então você pode escrever esses comentários para facilitar o entendimento do documento, como fiz com essas três linhas, ou você pode omitir alguns trechos. O próprio ShareLaTeX tem um atalho para facilitar isso. Experimente selecionar um trecho do documento e digitar `Ctrl + /`. Será colocado o `%` em todas as linhas selecionadas. Se digitar `Ctrl + /` novamente, voltará ao normal.
+Tudo que começa com o o símbolo `%` será tratado como um comentário, ou seja, o compilador do LaTeX vai desconsiderar essas linhas. Então você pode escrever comentários para facilitar o entendimento do documento, como fiz com essas três linhas, ou você pode omitir alguns trechos. O próprio ShareLaTeX tem um atalho para facilitar isso. Experimente selecionar um trecho do documento e digitar `Ctrl + /`. Será colocado o `%` em todas as linhas selecionadas. Se digitar `Ctrl + /` novamente, voltará ao normal.
 
 Muito útil essa função quando o seu documento está dando vários erros e você não sabe exatamente onde está, então você comenta praticamente o documento todo e vai "descomentando" pequenas partes e compilando novamente. Aí, alguma hora você vai encontrar o erro, mas essa não é uma boa prática. O certo seria: **Escreva pouco** --> **Compila** --> **Verifica**.
 
@@ -58,7 +55,7 @@ Depois, temos a) o comando `\documentclass[a4paper, 12pt, openany, oneside, braz
 ...
 ```
 
-É muito comum no LaTeX a inclusão de pacotes, que para quem já programou na vida, são semelhante às bibliotecas. Os pacotes são códigos pré-existentes para facilitar a sua vida no LaTeX. Esses três pacotes a cima, incluem uma bela fonte, a opção de usar os acentos sem problemas e a inclusão de figuras, respectivamente.
+É muito comum no LaTeX a inclusão de pacotes, para quem já programou na vida são semelhante às bibliotecas. Os pacotes são códigos pré-existentes para facilitar a sua vida no LaTeX. Esses três pacotes a cima, incluem uma bela fonte, a opção de usar os acentos sem problemas e a inclusão de figuras, respectivamente.
 
 Toda essa parte escrita até o começo do do comando `\begin{document}` (linha 123) é chamada de preâmbulo, que são as configurações do seu arquivo. Dentre elas, as configurações dos pacotes e dos comandos como `/imprimircapa`.
 
@@ -108,7 +105,7 @@ Entre o capítulo "Formatação de texto" e a seção "Formatação básica", es
 \chapter{Formatação de texto} % apenas para ilustrar onde estamos.
 Esse é um simples texto.            Não importa os espaços que o LaTeX apenas criará um.
 ```
-Experimente escrever um texto com vários espaços assim e compile. Você perceberá que o LaTeX apenas criará um espaço, uma vez que você não deve se preocupar com a formatação. Assim, caso você cometa o erro de insrir um espaço duplo, o LaTeX corrigirá para você. O mesmo vale para espaços entre parágrafos. Como faço, então, para inserir espaços horizontais e verticais? Hmm, experimente os comandos `\hspace{unidade}` e `\vspace{unidade}` e me diga, sendo que unidade pode ser em centímetros (cm), milímetros (mm) ou polegadas (in).  Exemplo: `Foo \hspace{2cm} bar`. Inclusive, é possível inserir espaços negativos, como `\vpsace{-0.5cm}`, o que será muito útil quando quisermos corrigir alguma formatação indesejada do LaTeX.
+Experimente escrever um texto com vários espaços assim e compile. Você perceberá que o LaTeX apenas criará **um** espaço, uma vez que não se deve preocupar com a formatação. Assim, caso você cometa o erro de inserir um espaço duplo, o LaTeX corrigirá para você. O mesmo vale para espaços entre parágrafos. Como faço, então, para inserir espaços horizontais e verticais? Experimente os comandos `\hspace{unidade}` e `\vspace{unidade}` e me diga, sendo que unidade pode ser em centímetros (cm), milímetros (mm) ou polegadas (in).  Exemplo: `Foo \hspace{2cm} bar`. Inclusive, é possível inserir espaços negativos, como `\vpsace{-0.5cm}`, o que será muito útil quando quisermos corrigir alguma formatação indesejada do LaTeX.
 
 #### Formatação Básica
 
@@ -137,7 +134,7 @@ O resultado deverá ser:
 
 #### Listas
 
-Como criar aqueles itens de pontinhos pretos ou itens numeradas? No LaTeX, eles são chamados de listas.
+Como criar aqueles itens de pontinhos pretos ou itens enumeradas? No LaTeX, eles são chamados de listas.
 
 Agora, veremos o nosso primeiro ambiente. Tudo o que começa com `\begin{ambiente}`, precisa terminar com `\end{ambiente}`, senão ocorre um erro. Mas não se preocupe: utilizaremos a função autocompletar do ShareLaTeX para facilitar a nossa vida.
 

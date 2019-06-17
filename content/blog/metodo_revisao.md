@@ -1,9 +1,8 @@
 +++
 date = "2018-12-28"
 title = "Uma nova sugestão para revisar com o Anki."
-description = ""
 tags = ["concursos públicos"]
-draft = false
+draft = "true"
 meta_img = "/images/image.jpg"
 +++
 
