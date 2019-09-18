@@ -1,5 +1,6 @@
 baseurl = "https://davidfonseca.com.br/"
 theme = "cocoa-eh"
+# theme = "cayman-hugo-theme"
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"

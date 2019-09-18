@@ -9,8 +9,7 @@ draft = "no"
 <!-- ![profile](/img/profile-230px.png) -->
 
 
-Formado em Engenharia Mecânica pela UFRJ - _campus_ Macaé. No momento, concurseiro da área fiscal, focado no SEFAZ SP/RJ .
-
+Formado em Engenharia Mecânica pela UFRJ - _campus_ Macaé.
 Gosto de expor meus pensamentos sobre a vida e também do mundo Linux.
 
 Seja bem-vindo.
